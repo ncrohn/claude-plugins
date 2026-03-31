@@ -1,0 +1,17 @@
+{
+  "name": "claude-plugins",
+  "owner": {
+    "name": "Nick Crohn"
+  },
+  "plugins": [
+    {
+      "name": "claude-tamagotchi",
+      "source": {
+        "type": "github",
+        "repo": "ncrohn/claude-tamagotchi"
+      },
+      "description": "A persistent Tamagotchi creature that lives in your Claude Code status line — evolves, has moods, and can die from neglect",
+      "version": "0.1.0"
+    }
+  ]
+}
