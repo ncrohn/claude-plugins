@@ -13,7 +13,16 @@
         "source": "github",
         "repo": "ncrohn/claude-tamagotchi"
       },
-      "description": "A persistent Tamagotchi creature that lives in your Claude Code status line — evolves, has moods, and can die from neglect",
+      "description": "A persistent Tamagotchi creature that lives in your Claude Code status line \u2014 evolves, has moods, and can die from neglect",
+      "version": "0.1.0"
+    },
+    {
+      "name": "shape",
+      "source": {
+        "source": "github",
+        "repo": "ncrohn/shape"
+      },
+      "description": "Human-driven design and planning \u2014 you design, Claude supplies terrain, objections, and structure, then carves the result into per-phase plan files an agent can execute",
       "version": "0.1.0"
     }
   ]
