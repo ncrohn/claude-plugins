@@ -23,7 +23,7 @@
         "repo": "ncrohn/shape"
       },
       "description": "Human-driven design and planning — you design, the agent supplies terrain, objections, and structure, then carves the result into per-phase plan files an agent can execute. Runs in Claude Code and Codex.",
-      "version": "0.1.0"
+      "version": "0.2.0"
     }
   ]
 }
